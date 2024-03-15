@@ -1,0 +1,22 @@
+	DIPX0001	IPhone X	Apple	3Gb	64Gb	true	6190000	25	A12 Bionic 6 nhân	Vàng	7Mp	12Mp
+	DIPXS001	IPhone XS	Apple	3Gb	256Gb	true	9590000	20	A12 Bionic 6 nhân	Xám	7Mp	12Mp
+	DIPXSM02	IPhone XS Max	Apple	3Gb	64Gb	false	8690000	12	A12 Bionic 6 nhân	Trắng	7Mp	12Mp
+	DIPX1001	IPhone 11	Apple	4Gb	128Gb	true	12190000	13	A13 Bionic	Đen	12Mp	12Mp
+	DIPX1PM1	IPhone 11 Pro Max	Apple	6Gb	64Gb	false	11690000	8	A13 Bionic	Xanh	12Mp	12Mp
+	DIPX2P02	IPhone 12 Pro Max	Apple	6Gb	128Gb	false	15990000	14	A14 Bionic	Xanh	12Mp	12Mp
+	DSGS22U1	Samsung Galaxy S23 Ultra	SamSung	8Gb	256Gb	true	22790000	15	Snapdragon 8 Gen 2	Tím	12Mp	200Mp
+	DSGZF501	Samsung Galaxy Z Flip5	SamSung	8Gb	512Gb	true	20190000	15	Snapdragon 8 Gen 2	Kem	10Mp	12Mp
+	DSGZFO51	Samsung Galaxy Z Fold5	SamSung	12Gb	1T	true	47990000	15	Snapdragon 8 Gen 2	Xanh	10Mp	50Mp
+	DSGZFO42	Samsung Galaxy Z Fold4	SamSung	12Gb	256Gb	false	32250000	13	Snapdragon 8 +	Kem	10Mp	50Mp
+	DIPX5PM1	IPhone 15 Pro Max	Apple	8Gb	256Gb	true	32990000	16	A17 Pro	Titan xanh	12Mp	48Mp
+	DIPX5PM2	IPhone 15 Pro Max	Apple	8Gb	256Gb	false	29190000	12	A17 Pro	Titan xanh	12Mp	48Mp
+	DIPX4PM1	IPhone 14 Pro Max	Apple	6Gb	128Gb	true	26890000	12	A16 Bionic	Tím	12Mp	48Mp
+	DOPPFNF1	OPPO Find N3 Flip	Oppo	12Gb	256Gb	true	22990000	12	MediaTek Dimensity 9200	Vàng	32Mp	56Mp
+	MAMAM11	Apple MacBook Air M1	Apple	8Gb	256Gb	true	18990000	12	M1	GPU 7 nhân,16 nhân Neural Engine	Vỏ kim loại	1.29
+	MAMAM21	Apple Macbook Air M2 2022	Apple	8Gb	256Gb	true	26490000	15	M2	7 nhân GPU,16 nhân Neural Engine	Vỏ kim loại	1.27
+	MAMPM11	Macbook Pro 14 M1 Pro	Apple	16Gb	1T	true	43490000	12	M1	15 GPU	Vỏ kim loại	1.6
+	MTUFG151	Laptop Asus TUF GAMING F15	ASUS	8Gb	512Gb	true	16890000	12	Intel Core i5-11400H	NVIDIA GeForce RTX 2050 4GB	Vỏ nhựa	2.3
+	MAVIVOG14	Laptop Asus VivoBook Go 14	ASUS	16Gb	512Gb	true	12990000	10	AMD Ryzen 5 7520U	AMD Radeon Graphics	Vỏ nhựa	1.38
+	MLENOIS5	Laptop Lenovo Ideapad Slim 5	Lenovo	16Gb	512Gb	true	14990000	19	Intel Core i5-12450H	Intel UHD Graphics	Vỏ nhựa	1.46
+	MANITRO5E	Laptop Gaming Acer Nitro 5 Eagle	Acer	8Gb	512Gb	true	18990000	12	Intel Core i5-12450H	NVIDIA GeForce RTX 3050 4GB	Vỏ nhựa	2.2
+	MDELLIN15	Laptop Dell Inspirion 15	Dell	8Gb	256Gb	true	13490000	20	Intel Core i5-1135G6	Intel Iris Xe Graphics	Vỏ nhựa	1.73
